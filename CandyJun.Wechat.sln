@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandyJun.Wechat", "CandyJun.Wechat\CandyJun.Wechat.csproj", "{12AABF4F-D53C-4178-83C3-D2BF256503F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandyJun.Wechat.Bll", "CandyJun.Wechat.Bll\CandyJun.Wechat.Bll.csproj", "{73865510-2F20-434F-9A13-B66531629727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandyJun.Wechat.Dal", "CandyJun.Wechat.Dal\CandyJun.Wechat.Dal.csproj", "{8CBF8E60-1E97-4B6C-8342-F29C7D11FD94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{12AABF4F-D53C-4178-83C3-D2BF256503F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12AABF4F-D53C-4178-83C3-D2BF256503F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12AABF4F-D53C-4178-83C3-D2BF256503F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73865510-2F20-434F-9A13-B66531629727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73865510-2F20-434F-9A13-B66531629727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73865510-2F20-434F-9A13-B66531629727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73865510-2F20-434F-9A13-B66531629727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBF8E60-1E97-4B6C-8342-F29C7D11FD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBF8E60-1E97-4B6C-8342-F29C7D11FD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBF8E60-1E97-4B6C-8342-F29C7D11FD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBF8E60-1E97-4B6C-8342-F29C7D11FD94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
